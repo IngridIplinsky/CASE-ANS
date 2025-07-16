@@ -43,7 +43,7 @@ Dados extraídos diretamente do FTP público da ANS:
 
 ## 📊 Visualização
 
-![Dashboard Power BI]([dashboard_unimed.png](https://ibb.co/MxrZZLD0))
+![Dashboard Power BI]([dash.png])
 
 ## 🙋‍♀️ Autora
 
