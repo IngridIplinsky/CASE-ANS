@@ -15,8 +15,6 @@ Explorar os dados de beneficiários por UF, faixa etária e mês, com foco na Un
 - [Power BI](https://powerbi.microsoft.com)
 - [GitHub](https://github.com)
 
-## 📁 Estrutura do projeto
-
 
 ## 🔄 Pipeline de dados
 
@@ -43,7 +41,7 @@ Dados extraídos diretamente do FTP público da ANS:
 
 ## 📊 Visualização
 
-![Dashboard Power BI]([dash.png])
+![Dashboard Power BI](dash.png)
 
 ## 🙋‍♀️ Autora
 
